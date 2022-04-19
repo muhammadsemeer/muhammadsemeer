@@ -67,6 +67,6 @@ I've been coding for 2 years. I am a self taught developer. I am ready to take c
 
 <div width="100%" align="center"><a href="https://github.com/muhammadsemeer/galaxieon-code" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadsemeer&repo=galaxieon-code&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/muhammadsemeer/galaxieon-code-server" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadsemeer&repo=galaxieon-code-server&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-### Support Me
-
+<div>
 <a href="https://www.buymeacoffee.com/muhammadsemeer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+</div>
