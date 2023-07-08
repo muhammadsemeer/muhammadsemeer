@@ -6,7 +6,7 @@ MERN / Python Django Developer
 
 I've been coding for 2 years. I am a self taught developer. I am ready to take challenges. I am really interested learn new things. I am interested to research backend stuffs other than creating ui.
 
-* 🌍  I'm based in Palakkad, Kerala, India
+* 🌍  I'm based in Kochi, Kerala, India
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/muhammadsemeera/)
 * ✉️  You can contact me at [muhammadsemeerali@gmail.com](mailto:muhammadsemeerali@gmail.com)
 * 🚀  I'm currently working on [ClusterDev](http://clusterdev.com/)
