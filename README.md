@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammad Semeer
 Backend and DevOps Engineer
 ------------------------------
 
-I've been coding for 2 years. I am a self taught developer. I am ready to take challenges. I am really interested learn new things. I am interested to research backend stuffs other than creating ui.
+I've been coding for 4 years. I am a self taught developer. I am ready to take challenges. I am really interested learn new things. I am interested to research backend stuffs other than creating ui.
 
 * 🌍  I'm based in Kochi, Kerala, India
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/muhammadsemeera/)
