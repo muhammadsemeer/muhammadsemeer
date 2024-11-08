@@ -1,7 +1,7 @@
 Hi 👋 My name is Muhammad Semeer
 ================================
 
-MERN / Python Django Developer
+Backend and DevOps Engineer
 ------------------------------
 
 I've been coding for 2 years. I am a self taught developer. I am ready to take challenges. I am really interested learn new things. I am interested to research backend stuffs other than creating ui.
@@ -10,9 +10,6 @@ I've been coding for 2 years. I am a self taught developer. I am ready to take c
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/muhammadsemeera/)
 * ✉️  You can contact me at [muhammadsemeerali@gmail.com](mailto:muhammadsemeerali@gmail.com)
 * 🚀  I'm currently working on [ClusterDev](http://clusterdev.com/)
-* 🧠  I'm learning Python Django and Next.js
-* 🤝  I'm open to collaborating on JavaScript, Django Projects
-* ⚡  I am learning DSA. I loves problem solving. Everyday, I will solve some problems on hackerank
 
 ### Skills
 
