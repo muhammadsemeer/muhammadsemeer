@@ -8,7 +8,7 @@ I've been coding for 4 years. I am a self taught developer. I am ready to take c
 
 * 🌍  I'm based in Kochi, Kerala, India
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/muhammadsemeera/)
-* ✉️  You can contact me at [muhammadsemeerali@gmail.com](mailto:muhammadsemeerali@gmail.com)
+* ✉️  You can contact me at [mail@semeer.me](mailto:mail@semeer.me)
 * 🚀  I'm currently working on [ClusterDev](http://clusterdev.com/)
 
 ### Skills
